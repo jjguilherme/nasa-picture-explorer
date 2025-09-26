@@ -6,6 +6,12 @@ A Single Page Application (SPA) developed with **React.js** to explore the NASA 
 | :--- | :--- |
 | **João Guilherme de Souza** | 2479516 |
 
+## 🔗 Live Application
+
+You can view the fully deployed, live version of this Single Page Application (SPA) here:
+
+**[View NASA Picture Explorer on Netlify](https://nasa-fullstack-project.netlify.app/)**
+
 ## ✨ Project Overview
 
 This application allows users to fetch NASA's Picture of the Day by submitting a specific date. It demonstrates key concepts of modern frontend development, including state management with the **Context API**, performance optimization with **`useMemo`**, and modular styling using **Styled Components**.
